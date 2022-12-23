@@ -1,0 +1,10 @@
+{
+  "name": "data_extractor",
+  "version": "0.0.1",
+  "title": "Data Extractor",
+  "author": "MatheusKProt",
+  "description": "Extract some data from the game",
+  "homepage": "https://github.com/MatheusKProt",
+  "dependencies": ["base >= 1.1.74", "? YARM >= 0.8.207"],
+  "factorio_version": "1.1.74"
+}
